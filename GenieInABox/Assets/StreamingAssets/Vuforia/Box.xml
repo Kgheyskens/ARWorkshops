@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="TresorDoos.Top" size="0.192000 0.054000"/>
+        <ImageTarget name="TresorDoos.Back" size="0.192000 0.241000"/>
+        <ImageTarget name="TresorDoos.Bottom" size="0.192000 0.054000"/>
+        <ImageTarget name="TresorDoos.Front" size="0.192000 0.241000"/>
+        <ImageTarget name="TresorDoos.Right" size="0.054000 0.241000"/>
+        <ImageTarget name="TresorDoos.Left" size="0.054000 0.241000"/>
+        <MultiTarget name="TresorDoos">
+            <Part name="TresorDoos.Left" translation="-0.09600000083446503 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="TresorDoos.Right" translation="0.09600000083446503 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="TresorDoos.Front" translation="0 0 0.027000000700354576" rotation="AD: 1 0 0 0"/>
+            <Part name="TresorDoos.Back" translation="0 0 -0.027000000700354576" rotation="AD: 0 1 0 180"/>
+            <Part name="TresorDoos.Top" translation="0 0.12049999833106995 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="TresorDoos.Bottom" translation="0 -0.12049999833106995 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
