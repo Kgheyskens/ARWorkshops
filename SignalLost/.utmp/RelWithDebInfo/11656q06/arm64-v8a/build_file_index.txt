@@ -1,0 +1,2 @@
+D:\ThomasMore3rdYear\Mobile&ARDevelopment\Workshop 2\Treasure Hunt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\ThomasMore3rdYear\Mobile&ARDevelopment\Workshop 2\Treasure Hunt\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

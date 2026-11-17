@@ -1,0 +1,46 @@
+# ninja log v5
+56	2874	8129034522508246	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fde1b810ea26d252
+77	2897	8129034522654354	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	42925f659a2cc30e
+19	2901	8129034522861287	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fb858894917a77f0
+146	2948	8129034523206743	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e005409d36006080
+36	3054	8129034524363096	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	248bdaf0687b3199
+121	3278	8129034526695971	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3b0f4c699eab2319
+99	3394	8129034527800385	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d1580f655563d320
+1	3595	8129034529696179	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e85e6c9df27c8b23
+3596	3951	8129034533131043	D:/ThomasMore3rdYear/Mobile&ARDevelopment/Workshop 2/Treasure Hunt/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/11656q06/obj/arm64-v8a/libgame.so	4792f8bb905f99b6
+158	2512	8129046235636108	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fde1b810ea26d252
+140	2515	8129046235631028	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	42925f659a2cc30e
+69	2577	8129046236479492	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fb858894917a77f0
+236	2587	8129046236642039	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e005409d36006080
+121	2648	8129046237146922	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	248bdaf0687b3199
+197	2823	8129046238993560	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3b0f4c699eab2319
+177	3012	8129046240838613	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d1580f655563d320
+49	3209	8129046242677542	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e85e6c9df27c8b23
+3209	4446	8129046254893681	D:/ThomasMore3rdYear/Mobile&ARDevelopment/Workshop 2/Treasure Hunt/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/11656q06/obj/arm64-v8a/libgame.so	4792f8bb905f99b6
+157	3643	8129074382669464	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fde1b810ea26d252
+177	3647	8129074383468905	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	42925f659a2cc30e
+193	3651	8129074383468905	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e005409d36006080
+122	3659	8129074383468905	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fb858894917a77f0
+83	3710	8129074384351679	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	248bdaf0687b3199
+245	4281	8129074390047586	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3b0f4c699eab2319
+139	4284	8129074390086784	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d1580f655563d320
+103	4303	8129074390381318	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e85e6c9df27c8b23
+4304	4761	8129074394760266	D:/ThomasMore3rdYear/Mobile&ARDevelopment/Workshop 2/Treasure Hunt/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/11656q06/obj/arm64-v8a/libgame.so	4792f8bb905f99b6
+200	2760	8129092243817115	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fde1b810ea26d252
+176	2779	8129092243934673	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	42925f659a2cc30e
+132	2791	8129092244264232	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fb858894917a77f0
+281	2815	8129092244586092	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e005409d36006080
+112	2887	8129092245305509	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	248bdaf0687b3199
+259	3009	8129092246454690	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3b0f4c699eab2319
+235	3393	8129092249811109	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d1580f655563d320
+150	3448	8129092250806933	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e85e6c9df27c8b23
+3448	3877	8129092254926796	D:/ThomasMore3rdYear/Mobile&ARDevelopment/Workshop 2/Treasure Hunt/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/11656q06/obj/arm64-v8a/libgame.so	4792f8bb905f99b6
+154	2529	8129107006625508	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	42925f659a2cc30e
+132	2554	8129107006954223	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fde1b810ea26d252
+172	2622	8129107007837448	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e005409d36006080
+70	2645	8129107007993402	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fb858894917a77f0
+86	2731	8129107008842637	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	248bdaf0687b3199
+188	2852	8129107010073894	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3b0f4c699eab2319
+114	3155	8129107013030537	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d1580f655563d320
+50	3344	8129107014893720	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e85e6c9df27c8b23
+3345	3683	8129107018026843	D:/ThomasMore3rdYear/Mobile&ARDevelopment/Workshop 2/Treasure Hunt/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/11656q06/obj/arm64-v8a/libgame.so	4792f8bb905f99b6

@@ -1,0 +1,2 @@
+D:\ThomasMore3rdYear\Mobile&ARDevelopment\Workshop 2_Own project\SignalLost\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\ThomasMore3rdYear\Mobile&ARDevelopment\Workshop 2_Own project\SignalLost\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
